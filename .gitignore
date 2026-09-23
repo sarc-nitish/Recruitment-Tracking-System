@@ -1,0 +1,15 @@
+# Build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Secrets: MySQL password yahan hai
+src/main/resources/application.properties
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
